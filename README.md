@@ -1,6 +1,5 @@
 <h1 align="center">WIX Data Labeling Team</h1>
-
-![Team logo](/img/picks.jpg)
+<img src="/img/picks.jpg" alt="team logo" align="center">
 <h4 align="center">WE are LABELERS 😎</h4>
 
 ## About team
