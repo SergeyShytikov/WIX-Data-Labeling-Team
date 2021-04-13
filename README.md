@@ -13,14 +13,13 @@ short story about team. how it started? Who was first? How is it going now? What
 photo & name each of team member, hobbies
 
 ---
-## Serhii Shytikov
-*"I love technology, snowboarding, mountains and cats"*
+## Kseniia Nalyvaiko
+*"Old man yells at clouds"*
 
-[LinkedIn](https://www.linkedin.com/in/sergey-shytikov/),
-[Instagram](https://www.instagram.com/sergiusz_sz/)
+[LinkedIn](none),
+[Instagram](none)
 <details>
 
-![S.Sh](/Serhii_Shy/S.Sh%20Wix.jpg)
 
 </details>
 
