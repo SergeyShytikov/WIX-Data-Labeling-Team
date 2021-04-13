@@ -15,21 +15,15 @@ photo & name each of team member, hobbies
 ---
 ## Serge Makogon
 *"Just a cool dude:)*
-
-
 [Instagram](https://https://www.instagram.com/sergemakogon/)
 
 ---
 ## Serhii Shytikov
 *"I love technology, snowboarding, mountains and cats"*
 
-[LinkedIn](https://www.linkedin.com/in/sergey-shytikov/),
-[Instagram](https://www.instagram.com/sergiusz_sz/)
-<details>
-
-![S.Sh](/Serhii_Shy/S.Sh%20Wix.jpg)
-
-</details>
+---
+## Kseniia Nalyvaiko
+*"Old man yells at clouds"*
 
 ---
 ---
